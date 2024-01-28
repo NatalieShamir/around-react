@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "deploy": "npm run build && scp -r ./build/* nataliashamir85@34.23.39.216:/home/nataliashamir85/react-around-frontend",
+    "deploy": "npm run build && scp -r ./build/* nataliashamir85@around.mkm.com.tr:/home/nataliashamir85/atus/react-around-frontend",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
